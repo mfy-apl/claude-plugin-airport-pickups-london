@@ -30,5 +30,6 @@ The user provided: $ARGUMENTS
 
 ## Cancellation Policy
 
-- 12+ hours before pickup: free cancellation, no fee
-- Under 12 hours: call +44 20 8688 7744 (24 hours) — the office confirms what applies
+- 12+ hours before pickup: free cancellation, no fee (the tool cancels it)
+- 6–12 hours before pickup: 50% of the fare is charged — the tool cannot cancel inside 12 hours; the customer calls +44 20 8688 7744
+- Under 6 hours: no refund — call +44 20 8688 7744

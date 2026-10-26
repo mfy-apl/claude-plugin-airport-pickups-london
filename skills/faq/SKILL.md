@@ -15,7 +15,7 @@ You'll receive an immediate confirmation email with your booking reference, jour
 Yes. Update pickup time, date, addresses, or notes up to 24 hours before pickup via Manage Booking. For same-day changes, contact support 24/7 on 0208 688 7744.
 
 **Can I cancel my booking?**
-Yes. 12 or more hours before pickup: free cancellation, no fee — cancel through Manage Booking or ask here. Under 12 hours: call +44 20 8688 7744 (24 hours) and the office confirms what applies.
+Yes. 12 or more hours before pickup: free cancellation, no fee — cancel through Manage Booking or ask here. Under 12 hours the booking cannot be cancelled online: call +44 20 8688 7744 (6–12 hours before pickup: 50% of the fare is charged; under 6 hours: no refund).
 
 ## Driver & Pickup
 
