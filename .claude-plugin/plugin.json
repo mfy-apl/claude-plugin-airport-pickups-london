@@ -1,6 +1,6 @@
 {
   "name": "airport-pickups-london",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Book UK airport and cruise port transfers with Airport Pickups London. Get instant fixed-price quotes, validate flights, and create real bookings for Heathrow, Gatwick, Stansted, Luton, City Airport, Edinburgh, and all UK cruise ports. TfL-licensed (No. 008004), 24/7 service, meet & greet included.",
   "author": {
     "name": "Airport Pickups London",
@@ -8,6 +8,7 @@
     "url": "https://www.airport-pickups-london.com"
   },
   "homepage": "https://www.airport-pickups-london.com",
+  "privacyPolicyUrl": "https://www.airport-pickups-london.com/privacy-policy",
   "repository": "https://github.com/mfy-apl/claude-plugin-airport-pickups-london",
   "license": "MIT-0",
   "keywords": ["airport transfer", "taxi", "london", "heathrow", "gatwick", "stansted", "luton", "cruise port", "booking", "travel", "mcp"]

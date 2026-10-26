@@ -31,10 +31,10 @@ No API keys needed — OAuth 2.1 auto-discovery handles authentication automatic
 
 ```
 /apl-quote Heathrow to Oxford
-/apl-quote Gatwick to Brighton 15 April 2026
-/apl-booking APL-CJ5KDJ
-/apl-booking APL-CJ5KDJ cancel
-/apl-booking APL-CJ5KDJ track
+/apl-quote Gatwick to Brighton 15 April 2027
+/apl-booking 1031380
+/apl-booking 1031380 cancel
+/apl-booking 1031380 track
 ```
 
 ### Natural Language
@@ -46,7 +46,7 @@ Just ask Claude:
 - "I need a round trip — Heathrow to Oxford tomorrow and back on Friday"
 - "We have 12 people arriving at Luton — what vehicles do we need?"
 - "Check flight BA2534 on April 15th"
-- "Where is my driver for booking APL-CJ5KDJ?"
+- "Where is my driver for booking 1031380?"
 
 ### Trip Planner (Sub-Agent)
 
@@ -98,7 +98,7 @@ airport-pickups-london/
 ## Pricing
 
 - All prices in GBP (£), **per vehicle** (not per person)
-- Fixed prices — no surge, no hidden charges
+- Fixed price, confirmed at booking. No hidden charges.
 - Includes meet & greet, flight monitoring, waiting time, parking
 - Free cancellation 12+ hours before pickup
 

@@ -1,7 +1,6 @@
 ---
 description: Get an airport transfer quote from Airport Pickups London
 argument-hint: <origin> to <destination> [date]
-allowed-tools: [Read, Bash]
 ---
 
 # Airport Transfer Quote
@@ -23,6 +22,6 @@ The user provided: $ARGUMENTS
 
 ```
 /apl-quote Heathrow to Oxford
-/apl-quote Gatwick to Brighton 15 April 2026
+/apl-quote Gatwick to Brighton 15 April 2027
 /apl-quote Southampton cruise port to London
 ```

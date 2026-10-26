@@ -44,7 +44,7 @@ Collect ALL of these before calling the booking tool:
 ## After Booking
 
 Present:
-- **Booking reference** (e.g. APL-CJ5KDJ)
+- **Booking reference** (e.g. 1031380)
 - **Manage booking URL** — customer can view, pay online, track driver, amend, cancel
 - **Meeting point instructions** with terminal name
 - **24/7 support**: 0208 688 7744

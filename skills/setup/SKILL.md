@@ -36,8 +36,8 @@ Once connected, you can:
 - **Get quotes**: "How much from Gatwick to Brighton for 3 passengers?"
 - **Book transfers**: "Book a People Carrier from Heathrow T5 to Oxford for tomorrow"
 - **Check flights**: "Verify flight BA2534 on April 15th"
-- **Manage bookings**: "Look up booking APL-CJ5KDJ" / "Cancel booking APL-CJ5KDJ"
-- **Track drivers**: "Where is my driver for booking APL-CJ5KDJ?"
+- **Manage bookings**: "Look up booking 1031380" / "Cancel booking 1031380"
+- **Track drivers**: "Where is my driver for booking 1031380?"
 
 ## Coverage
 

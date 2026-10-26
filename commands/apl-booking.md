@@ -1,7 +1,6 @@
 ---
 description: Look up, amend, or cancel an Airport Pickups London booking
 argument-hint: <booking-ref> [action]
-allowed-tools: [Read, Bash]
 ---
 
 # Manage APL Booking
@@ -14,7 +13,7 @@ The user provided: $ARGUMENTS
 
 ## Instructions
 
-1. Parse the booking reference (e.g. APL-CJ5KDJ or 959400) from the arguments
+1. Parse the booking reference (a plain reservation number, e.g. 1031380) from the arguments
 2. If no action specified, call `lookup_booking` to show booking details
 3. If action is "cancel", call `cancel_booking` with the reference
 4. If action is "amend" or "change", ask what they want to change, then call `amend_booking`
@@ -23,14 +22,13 @@ The user provided: $ARGUMENTS
 ## Examples
 
 ```
-/apl-booking APL-CJ5KDJ
-/apl-booking APL-CJ5KDJ cancel
-/apl-booking APL-CJ5KDJ track
-/apl-booking 959400 amend
+/apl-booking 1031380
+/apl-booking 1031380 cancel
+/apl-booking 1031380 track
+/apl-booking 1026044 amend
 ```
 
 ## Cancellation Policy
 
-- 12+ hours before pickup: Free (£10 admin fee)
-- 6-12 hours: 50% charge
-- Under 6 hours: No refund — contact 0208 688 7744
+- 12+ hours before pickup: free cancellation, no fee
+- Under 12 hours: call +44 20 8688 7744 (24 hours) — the office confirms what applies

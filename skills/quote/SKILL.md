@@ -39,7 +39,7 @@ Call the `london_airport_transfer_quote` tool with:
 ## Pricing Rules
 
 - All prices are **per vehicle**, not per person
-- **Fixed prices** — no surge, no hidden charges
+- **Fixed price, confirmed at booking.** No hidden charges.
 - Includes meet & greet, flight monitoring, waiting time, and airport parking
 - Free cancellation 12+ hours before pickup
 

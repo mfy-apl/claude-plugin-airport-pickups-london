@@ -2,7 +2,6 @@
 name: apl-trip-planner
 description: "A sub-agent that handles multi-leg transfer planning. Use when the user needs quotes for multiple routes, round trips, group travel with multiple vehicles, or comparing options across dates."
 model: sonnet
-allowed-tools: [Read, Bash, Grep]
 ---
 
 # APL Trip Planner Agent
