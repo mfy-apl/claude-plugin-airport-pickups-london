@@ -6,7 +6,7 @@ Book UK airport and cruise port transfers directly from Claude Code. A complete 
 
 | Component | Description |
 |-----------|-------------|
-| **MCP Connector** | 7 tools via `mcp.airport-pickups-london.com` (OAuth 2.1) |
+| **MCP Connector** | 11 tools via `mcp.airport-pickups-london.com` (OAuth 2.1) |
 | **Skills** | 4 context-aware skills (quote, book, validate-flight, setup) |
 | **Slash Commands** | `/apl-quote` and `/apl-booking` |
 | **Sub-Agent** | Trip planner for multi-leg and group transfers |
